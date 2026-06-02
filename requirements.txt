@@ -1,0 +1,8 @@
+# V.I.C. — Value In Conversation
+# requirements.txt
+#
+# Core: zero dependencies (stdlib only)
+# PDF output: reportlab (optional but recommended)
+# Install: pip install reportlab
+#
+reportlab>=4.0.0

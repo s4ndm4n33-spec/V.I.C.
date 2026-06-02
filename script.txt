@@ -1,0 +1,1 @@
+touch /home/claude/vic/core/__init__.py /home/claude/vic/parsers/__init__.py /home/claude/vic/output/__init__.py /home/claude/vic/tests/__init__.py && echo "done"
